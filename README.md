@@ -1,8 +1,5 @@
 # Rust
 
-bash```
-cargo new session1
-
 ```
-
+cargo new session1
 ```
